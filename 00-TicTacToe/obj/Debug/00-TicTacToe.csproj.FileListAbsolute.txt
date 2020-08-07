@@ -1,0 +1,12 @@
+/Users/heen/Projects/00-TicTacToe/00-TicTacToe/bin/Debug/00-TicTacToe.exe
+/Users/heen/Projects/00-TicTacToe/00-TicTacToe/bin/Debug/00-TicTacToe.pdb
+/Users/heen/Projects/00-TicTacToe/00-TicTacToe/obj/Debug/00-TicTacToe.csprojAssemblyReference.cache
+/Users/heen/Projects/00-TicTacToe/00-TicTacToe/obj/Debug/00-TicTacToe.csproj.CoreCompileInputs.cache
+/Users/heen/Projects/00-TicTacToe/00-TicTacToe/obj/Debug/00-TicTacToe.exe
+/Users/heen/Projects/00-TicTacToe/00-TicTacToe/obj/Debug/00-TicTacToe.pdb
+/Users/heen/Documents/Visual Studio 2019/00-TicTacToe/00-TicTacToe/bin/Debug/00-TicTacToe.exe
+/Users/heen/Documents/Visual Studio 2019/00-TicTacToe/00-TicTacToe/bin/Debug/00-TicTacToe.pdb
+/Users/heen/Documents/Visual Studio 2019/00-TicTacToe/00-TicTacToe/obj/Debug/00-TicTacToe.csprojAssemblyReference.cache
+/Users/heen/Documents/Visual Studio 2019/00-TicTacToe/00-TicTacToe/obj/Debug/00-TicTacToe.csproj.CoreCompileInputs.cache
+/Users/heen/Documents/Visual Studio 2019/00-TicTacToe/00-TicTacToe/obj/Debug/00-TicTacToe.exe
+/Users/heen/Documents/Visual Studio 2019/00-TicTacToe/00-TicTacToe/obj/Debug/00-TicTacToe.pdb
